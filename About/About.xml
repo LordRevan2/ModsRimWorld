@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+  <name>Custom Research View</name>
+  <author>OpenAI Assistant</author>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <packageId>com.openai.customresearchview</packageId>
+  <description>
+    Reemplaza la vista de investigaciones predeterminada con una presentación jerárquica
+    basada en niveles tecnológicos y permite seleccionar proyectos de investigación de
+    forma rápida.
+  </description>
+</ModMetaData>
