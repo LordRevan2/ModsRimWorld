@@ -1,0 +1,13 @@
+# Build outputs
+Assemblies/*.dll
+Assemblies/*.mdb
+Assemblies/*.pdb
+Source/**/bin/
+Source/**/obj/
+
+# IDE
+.vs/
+*.user
+*.suo
+*.userprefs
+*.csproj.user
